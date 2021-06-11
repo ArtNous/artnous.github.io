@@ -1,1 +1,1 @@
-(self.webpackChunkbarba_starter_template=self.webpackChunkbarba_starter_template||[]).push([[287],{},a=>{"use strict";var e=e=>a(a.s=e);a.O(0,[941,633],(()=>(e(6633),e(8686))));a.O()}]);
+(self.webpackChunkbarba_starter_template=self.webpackChunkbarba_starter_template||[]).push([[287],{},a=>{"use strict";var e=e=>a(a.s=e);a.O(0,[941,3],(()=>(e(3),e(2323))));a.O()}]);
